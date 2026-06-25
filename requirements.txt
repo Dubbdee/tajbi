@@ -1,0 +1,10 @@
+PyQt5
+pywin32
+requests
+pillow
+numpy
+opencv-python
+pyinstaller
+beautifulsoup4
+pytesseract
+psutil
